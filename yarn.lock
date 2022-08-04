@@ -5324,6 +5324,16 @@ react-native-gradle-plugin@^0.0.6:
   resolved "https://registry.yarnpkg.com/react-native-gradle-plugin/-/react-native-gradle-plugin-0.0.6.tgz#b61a9234ad2f61430937911003cddd7e15c72b45"
   integrity sha512-eIlgtsmDp1jLC24dRn43hB3kEcZVqx6DUQbR0N1ABXGnMEafm9I3V3dUUeD1vh+Dy5WqijSoEwLNUPLgu5zDMg==
 
+react-native-ip-sec-vpn@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/react-native-ip-sec-vpn/-/react-native-ip-sec-vpn-1.1.1.tgz#62b687ceeea963037fac15770b997ec39b8e5427"
+  integrity sha512-cRVOuMweY3tCVqARyLyScR8+12zcHBxF8SURlejA0TwbSFyxZb+8PVUTbiIHL5cGo7v1Ilp4eTgyyMdJePK0+w==
+
+react-native-simple-openvpn@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-simple-openvpn/-/react-native-simple-openvpn-2.0.0.tgz#6e5fcc592b29978e33dfba0e2b69e04a99715735"
+  integrity sha512-FCUX1qpiNZbTs/M8buDFfP9GyBYJtfajFMYVYNEjJCkmt9RbA6RPaV/h6uAM79UffwNu01KPC6eqUcyFzJctNw==
+
 react-native-web@0.17.7:
   version "0.17.7"
   resolved "https://registry.yarnpkg.com/react-native-web/-/react-native-web-0.17.7.tgz#038899dbc94467a0ca0be214b88a30e0c117b176"
